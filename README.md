@@ -9,8 +9,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=trust1204&theme=warm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han)](https://github.com/Seungkyu-Han/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
 ## 📝  Studying 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
