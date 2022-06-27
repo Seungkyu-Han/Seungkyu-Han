@@ -1,11 +1,11 @@
 <b>I'm Seungkyu-Han</b>
 =======================
 
-<img src="https://user-images.githubusercontent.com/98071131/168649492-72352c11-4ac3-42b9-a987-64f06b5e1776.jpg"  width="20" height="20"> college student at KYUNGPOOK NATIONAL UNIVERSITY(CSE).
+<a href = "http://cse.knu.ac.kr/main/index.html" target = "_self"><img src="https://user-images.githubusercontent.com/98071131/168649492-72352c11-4ac3-42b9-a987-64f06b5e1776.jpg"  width="20" height="20"></a> college student at KYUNGPOOK NATIONAL UNIVERSITY(CSE).
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungkyu-Han&count_bg=%231DD4A1&title_bg=%233DA1C8&icon=&icon_color=%23510E0E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)
+<a href = "https://solved.ac/" target = "_blank">![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)</a>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=trust1204&theme=warm)
 
