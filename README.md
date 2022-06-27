@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungkyu-Han&count_bg=%231DD4A1&title_bg=%233DA1C8&icon=&icon_color=%23510E0E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href = "https://solved.ac/profile/trust1204" target = "_self">![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)</a>
+<a href = "https://solved.ac/profile/trust1204" target = "_blank">![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)</a>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=trust1204&theme=warm)
 
