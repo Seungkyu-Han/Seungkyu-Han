@@ -1,7 +1,8 @@
 <h1>I'm SeungKyu-Han</h1>
 
 <a href = "http://cse.knu.ac.kr/main/index.html" target = "_self"><img src="https://user-images.githubusercontent.com/98071131/168649492-72352c11-4ac3-42b9-a987-64f06b5e1776.jpg"  width="20" height="20"></a> college student at KYUNGPOOK NATIONAL UNIVERSITY(CSE).
-<br>🌱Junior Front-end Developer.
+<br>🌱Junior Front-end Developer. ->
+<a href = "seungkyuhan.dothome.co.kr/">Seungkyu-com</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungkyu-Han&count_bg=%231DD4A1&title_bg=%233DA1C8&icon=&icon_color=%23510E0E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
