@@ -8,8 +8,6 @@
 
 <a href = "https://solved.ac/profile/trust1204" target = "_blank">![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)</a>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=trust1204&theme=warm)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
 ## 📝  Studying 
