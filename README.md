@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungkyu-Han&count_bg=%231DD4A1&title_bg=%233DA1C8&icon=&icon_color=%23510E0E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href = "https://solved.ac/profile/trust1204" target = "_blank">![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=trust1204)</a>
+[![trust1204's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=trust1204)](https://solved.ac/profile/trust1204)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
