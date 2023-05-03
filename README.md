@@ -1,7 +1,7 @@
 <h1>I'm SeungKyu-Han</h1>
 
 <a href = "http://cse.knu.ac.kr/main/index.html" target = "_self"><img src="https://user-images.githubusercontent.com/98071131/168649492-72352c11-4ac3-42b9-a987-64f06b5e1776.jpg"  width="20" height="20"></a> college student at KYUNGPOOK NATIONAL UNIVERSITY(CSE).
-<br>🌱Junior Back-End Developer. ->
+<br>🌱Junior Back-End Developer!!<br>
 <a href = "https://seungkyu-han.tistory.com/">매일 공부한 내용을 기록하는 곳</a><br>
 <a href = "https://velog.io/@trust1204/">프로젝트 기록과 문제 해결 과정을 기록하는 곳</a>
 
