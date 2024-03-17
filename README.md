@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
 ## 📝 2024 plan
-
+<img src="https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
 
 
 ## 💻 Skill
