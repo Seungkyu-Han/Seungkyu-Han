@@ -12,7 +12,7 @@
 
 ## 📦 Libraries
 
-### 🧩 @seungkyu/error-mapper  
+### 🐛 @seungkyu/error-mapper
 A NestJS library for mapping custom errors to other errors or HTTP responses.
 [![npm version](https://img.shields.io/npm/v/@seungkyu/error-mapper)](https://www.npmjs.com/package/@seungkyu/error-mapper)
 [![npm downloads](https://img.shields.io/npm/dm/@seungkyu/error-mapper)](https://www.npmjs.com/package/@seungkyu/error-mapper)
