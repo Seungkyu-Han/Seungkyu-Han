@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
 ## 📦 Libraries
-### <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
+## <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
 #### 🐛 @seungkyu/error-mapper
 A NestJS library for mapping custom errors to other errors or HTTP responses.  
 [![npm version](https://img.shields.io/npm/v/@seungkyu/error-mapper)](https://www.npmjs.com/package/@seungkyu/error-mapper)  
@@ -24,6 +24,17 @@ A NestJS library for reporting unhandled exceptions to external services like Sl
 It automatically captures global exceptions and sends formatted error messages.  
 [![npm version](https://img.shields.io/npm/v/@seungkyu/error-reporter)](https://www.npmjs.com/package/@seungkyu/error-reporter)  
 [![npm downloads](https://img.shields.io/npm/dm/@seungkyu/error-reporter)](https://www.npmjs.com/package/@seungkyu/error-reporter)
+
+---
+
+## <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=PyPI&logoColor=white">
+#### 📡 event-pubsub
+A powerful, decoupled event emitter for Python inspired by NestJS.  
+Supports **async/await**, **wildcard patterns**, and focuses on reducing module coupling.  
+[![pypi version](https://img.shields.io/pypi/v/event-pubsub)](https://pypi.org/project/event-pubsub/)  
+[![pypi downloads](https://img.shields.io/pypi/dm/event-pubsub)](https://pypi.org/project/event-pubsub/)
+
+---
 
 ## 💻 Skill
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
