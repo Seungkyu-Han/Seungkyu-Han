@@ -11,15 +11,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
 
 ## 📦 Libraries
-
-### 🐛 @seungkyu/error-mapper
+### <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
+#### 🐛 @seungkyu/error-mapper
 A NestJS library for mapping custom errors to other errors or HTTP responses.  
 [![npm version](https://img.shields.io/npm/v/@seungkyu/error-mapper)](https://www.npmjs.com/package/@seungkyu/error-mapper)  
 [![npm downloads](https://img.shields.io/npm/dm/@seungkyu/error-mapper)](https://www.npmjs.com/package/@seungkyu/error-mapper)
 
 ---
 
-### 🚨 @seungkyu/error-reporter
+#### 🚨 @seungkyu/error-reporter
 A NestJS library for reporting unhandled exceptions to external services like Slack.  
 It automatically captures global exceptions and sends formatted error messages.  
 [![npm version](https://img.shields.io/npm/v/@seungkyu/error-reporter)](https://www.npmjs.com/package/@seungkyu/error-reporter)  
