@@ -34,6 +34,12 @@ Supports **async/await**, **wildcard patterns**, and focuses on reducing module 
 [![pypi version](https://img.shields.io/pypi/v/event-pubsub)](https://pypi.org/project/event-pubsub/)  
 [![pypi downloads](https://img.shields.io/pypi/dm/event-pubsub)](https://pypi.org/project/event-pubsub/)
 
+#### 🚨 error-reporter 
+A FastAPI library for reporting unhandled exceptions to external services like Slack.  
+It automatically captures global exceptions and sends formatted error messages.  
+[![pypi version](https://img.shields.io/pypi/v/error-reporter)](https://pypi.org/project/error-reporter/)  
+[![pypi downloads](https://img.shields.io/pypi/dm/error-reporter)](https://pypi.org/project/error-reporter/)
+
 ---
 
 ## 💻 Skill
