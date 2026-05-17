@@ -36,6 +36,11 @@ It automatically captures global exceptions and sends formatted error messages.
 [![pypi version](https://img.shields.io/pypi/v/error-reporter)](https://pypi.org/project/error-reporter/)  
 [![pypi downloads](https://img.shields.io/pypi/dm/error-reporter)](https://pypi.org/project/error-reporter/)
 
+#### 🔎 fastapi-file-validator
+A simple, lightweight, and flexible decorator-based file validation library for FastAPI. Easily validate uploaded file extensions and file sizes before hitting your endpoint logic.
+
+[![PyPI version](https://img.shields.io/pypi/v/fastapi-file-validator)](https://pypi.org/project/fastapi-file-validator/) [![codecov](https://codecov.io/gh/Seungkyu-Han/fastapi-file-validator/graph/badge.svg?token=VQMH5631MD)](https://codecov.io/gh/Seungkyu-Han/fastapi-file-validator) [![PyPI downloads](https://img.shields.io/pypi/dm/fastapi-file-validator)](https://pypi.org/project/fastapi-file-validator/)
+
 ---
 
 ## 💻 Skill
