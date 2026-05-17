@@ -6,10 +6,6 @@
 <a href = "https://seungkyu.tistory.com/">프로젝트 기록과 문제 해결 과정을 기록하는 곳</a><br>
 <a href = "https://www.canva.com/design/DAGa1gWL8w0/1GXuGWryoyhPD5AH2UOb8g/edit?utm_content=DAGa1gWL8w0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">한승규의 포트폴리오</a>
 
-[![trust1204's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=trust1204)](https://solved.ac/profile/trust1204)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungkyu-Han&layout=compact)](https://github.com/Seungkyu-Han/github-readme-stats)
-
 ## 📦 Libraries
 ## <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
 #### 🐛 @seungkyu/error-mapper
