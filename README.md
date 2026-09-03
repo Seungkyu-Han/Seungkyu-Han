@@ -43,7 +43,7 @@ A simple, lightweight, and flexible decorator-based file validation library for 
 #### 🔎 hwpx-agent
 프롬프트를 통해 hwpx을 파일을 생성하고 수정하는 agent
 
-[![PyPI version](https://img.shields.io/pypi/v/hwpx-agent)](https://pypi.org/project/fastapi-file-validator/) [![PyPI downloads](https://img.shields.io/pypi/dm/hwpx-agent)](https://pypi.org/project/hwpx-agent)
+[![PyPI version](https://img.shields.io/pypi/v/hwpx-agent)](https://img.shields.io/pypi/v/hwpx-agent) [![PyPI downloads](https://img.shields.io/pypi/dm/hwpx-agent)](https://pypi.org/project/hwpx-agent)
 
 ---
 
