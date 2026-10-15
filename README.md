@@ -4,6 +4,7 @@
 <br>🌱Junior Back-End Developer!!<br>
 <a href = "https://seungkyu-han.tistory.com/">매일 공부한 내용을 기록하는 곳</a><br>
 <a href = "https://seungkyu.tistory.com/">프로젝트 기록과 문제 해결 과정을 기록하는 곳</a><br>
+[![한승규 solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=trust1204)](https://solved.ac/profile/trust1204)
 
 ## 📦 Libraries
 ## <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
